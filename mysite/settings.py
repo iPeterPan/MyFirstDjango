@@ -25,7 +25,7 @@ SECRET_KEY = 'wcx_sr-=6@q!i(bs=7$p%trayn86fnnd0oftwjmhevw*xq4ojg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'woojja.pythonanywhere.com']
 #https://github.com/iPeterPan/MyFirstDjango.git
 
 # Application definition
